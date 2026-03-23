@@ -1,3 +1,7 @@
+package Abilities;
+
+import Monsters.Monster;
+
 /**
  * [Brief description of what this class does]
  *
